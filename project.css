@@ -1,0 +1,20 @@
+h1,
+h2,
+figure {
+    text-align: center;
+}
+
+body {
+    background-color: ghostwhite;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a:hover {
+    font-size: larger;
+}
+
+dt {
+    font-size: larger;
+}
